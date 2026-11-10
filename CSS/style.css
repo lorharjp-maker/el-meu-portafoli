@@ -1,0 +1,27 @@
+body {
+    background-color:aquamarine;
+    font-family: Arial;
+    margin: 50px;
+}
+
+h1 {
+    color: darkblue;
+   
+}
+
+h2 {
+    color: darkgreen;
+}
+
+p {
+    color: black;
+}
+
+img {
+    width: 100%;
+}
+
+a {
+    color: purple;
+}
+
